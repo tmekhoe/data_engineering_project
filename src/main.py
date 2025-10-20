@@ -1,6 +1,7 @@
-def main():
+def main() -> None:
     print("Hello, World")
     print("Welcome to data engineering")
 
-if __name__ == "__main__": 
+
+if __name__ == "__main__":
     main()
