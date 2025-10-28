@@ -1,4 +1,4 @@
-{"python.defaultInterpreter":".venv/bin/python",
+{"python.defaultInterpreter":".venv\\Scripts\\python.exe",
 "python.linting.mypyEnabled":true,
 "[python]":{
     "editor.defaultFormatter":"charliermarsh.ruff",
